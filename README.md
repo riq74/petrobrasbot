@@ -25,8 +25,8 @@
 > apt install wget
 > pkg install nodejs
 > pkg install npm
-> git clone https://github.com/riq74/petrobrasbot.git
-> cd petrobrasbot
+> git clone https://github.com/riq74/petrobot2.git
+> cd petrobot
 > bash install.sh
 ```
 
@@ -35,7 +35,7 @@
 ```bash
 > npm start
 > leia o códico QR e após isso de um exit
-> cd petrobrasbot
+> cd petrobot
 > npm i -g pm2
 > pm2 start index.js
 > pm2 monit

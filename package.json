@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinizeus/zeusbot.git"
+    "url": "git+https://github.com/riq74/petrobot2.git"
   },
   "bugs": {
-    "url": "https://github.com/vinizeus/zeusbot.git"
+    "url": "https://github.com/riq74/petrobot2.git"
   },
-  "homepage": "https://github.com/vinizeus/zeusbot#readme"
+  "homepage": "https://github.com/riq74/petrobot2.git"
 }
